@@ -1,5 +1,5 @@
 # Exema-Ai
-
+ ## inorder to run this file, first install all the dependencies using the command "npm install", then login via your eas credentials, and then run by using the command " expo start for dev client " or "expo run:ios or expo run:android ".
 # SRS Document: Exama AI
 ## Table of Contents
 ## Introduction
