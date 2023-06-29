@@ -1,6 +1,6 @@
-# Exema-Ai
+# Emma-Ai
  ## inorder to run this file, first install all the dependencies using the command "npm install", then login via your eas credentials, and then run by using the command " expo start for dev client " or "expo run:ios or expo run:android ".
-# SRS Document: Exama AI
+# SRS Document: Emma AI "We have changed the app name from exama to Eemma ai "
 ## Table of Contents
 ## Introduction
 
@@ -132,4 +132,7 @@ Security: User data should be protected through encryption and secure communicat
 Usability: The app should be intuitive and easy to navigate for users of all skill levels.
 Maintainability: The codebase should be maintainable and scalable to accommodate future updates and enhancements.
 # 4. Appendices
+ below we have attached the video of this file
  
+https://github.com/AhmedNazeerr/Eemma-Ai/assets/97975048/5fc53e6e-abe1-4487-8fb5-3b7fc3ecb758
+
